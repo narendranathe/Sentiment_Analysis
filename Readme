@@ -2,4 +2,4 @@ In sentiment analysis I am taking the example of "Nixon Library" and performing 
 1) Trip Advisor 
 2) Yelp 
 
-I scrapped the data using python BeautifulSoup library. Code for this is here 
+I scrapped the data using python BeautifulSoup library. Code for this is here Nixon_scrape.ipynb
