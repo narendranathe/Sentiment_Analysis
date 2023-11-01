@@ -1,0 +1,5 @@
+In sentiment analysis I am taking the example of "Nixon Library" and performing user sentiment analysis for 2 websites data 
+1) Trip Advisor 
+2) Yelp 
+
+I scrapped the data using python BeautifulSoup library. Code for this is here 
