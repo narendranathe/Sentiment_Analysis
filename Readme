@@ -1,21 +1,21 @@
-# Sentiment Analysis of Yelp & Trip Advisor Reviews
+#Sentiment Analysis of Yelp & Trip Advisor Reviews
 
-## Overview
+##Overview
 
 This GitHub repository houses the project on conducting sentiment analysis on reviews collected from Yelp and Trip Advisor. The aim is to decipher the sentiment behind user reviews using advanced NLP techniques, thereby uncovering insights into public opinion about local businesses.
 
-## Project Objective
+##Project Objective
 
 The primary goal is to analyze and classify the sentiments of reviews into positive, negative, or neutral categories, providing stakeholders with a deeper understanding of customer feedback and its implications for business reputation and service quality.
 
-## Technologies Used
+##Technologies Used
 
 - **Data Manipulation**: `pandas`, `numpy`
 - **Text Processing & Sentiment Analysis**: `spacy`, `nltk`, `transformers`
 - **Visualization**: `matplotlib`, `seaborn`, `wordcloud`
 - **Machine Learning Models**: BERT, RoBERTa for sentiment classification.
 
-## Workflow
+##Workflow
 
 1. **Data Collection**: Reviews were scraped from Yelp and Trip Advisor using custom scripts.
 2. **Preprocessing**: Text data was cleaned and preprocessed to remove noise and standardize the format for analysis.
