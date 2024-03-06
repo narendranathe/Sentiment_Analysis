@@ -33,17 +33,17 @@ cd <project-directory>
 pip install -r requirements.txt
 ```
 ## Challenges Encountered
-Dynamic Content Handling: Adaptation to constantly changing review data and formats.
-Model Fine-Tuning: Adjusting parameters for optimal sentiment classification accuracy.
-Data Preprocessing Complexity: Developing efficient preprocessing pipelines to handle large datasets.
+**Dynamic Content Handling**: Adaptation to constantly changing review data and formats.
+**Model Fine-Tuning**: Adjusting parameters for optimal sentiment classification accuracy.
+**Data Preprocessing Complexity**: Developing efficient preprocessing pipelines to handle large datasets.
 
 ## Results & Impact
 The analysis revealed significant insights into customer sentiment trends, providing valuable feedback for businesses to improve their services. The comparative analysis between Yelp and Trip Advisor also offered unique perspectives on user engagement across platforms.
 
 ## Future Enhancements
-Expand the analysis to include more review platforms.
-Implement real-time sentiment analysis for up-to-date insights.
-Explore deeper NLP techniques for nuanced sentiment understanding.
+- Expand the analysis to include more review platforms.
+- Implement real-time sentiment analysis for up-to-date insights.
+- Explore deeper NLP techniques for nuanced sentiment understanding.
 
 ## Contributing
 Contributions to this project are welcome. Please submit a pull request or open an issue to propose changes or additions.
