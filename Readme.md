@@ -30,7 +30,6 @@ Instructions for setting up the project environment:
 ```bash
 git clone <https://github.com/narendranathe/Sentiment_Analysis>
 cd <https://github.com/narendranathe/Sentiment_Analysis/blob/master/Final.ipynb>
-pip install -r requirements.txt
 ```
 ## Challenges Encountered
 **Dynamic Content Handling**: Adaptation to constantly changing review data and formats.
